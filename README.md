@@ -2,7 +2,7 @@
 
 UI/UX designer. Curious developer. Still figuring it out.
 
-I care about how things look, feel, and work — and I'm trying to make all three happen at once. Currently learning to speak in code while keeping a designer's eye on everything.
+I care about how things look, feel, and work and I'm trying to make all three happen at once. Currently learning to speak in code while keeping a designer's eye on everything.
 
 ---
 
@@ -25,7 +25,7 @@ Learning →  Python · AI / ML
 
 ### currently
 
-— First-year BSc CSIT student  
+— First Year BSc CSIT student  
 — Exploring AI and getting comfortable with Python  
 — Thinking about where design and technology intersect
 
@@ -33,11 +33,10 @@ Learning →  Python · AI / ML
 
 ### github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhitalCodes&show_icons=true&hide_border=true&count_private=true&theme=default" height="130" />
 <img src="https://streak-stats.demolab.com?user=DhitalCodes&hide_border=true&theme=default" height="130" />
 
 ---
 
 ### let's connect
 
-[Email](mailto:dhitalcodes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aaditya-dhital-a1789036b/) · [Portfolio](https://framebyaadi.vercel.app/m)
+[Email](mailto:dhitalcodes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aaditya-dhital-a1789036b/) · [Portfolio](https://framebyaadi.vercel.app)
